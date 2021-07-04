@@ -24,7 +24,7 @@ Day 17 : 19/6/21
 	  - chain-of-responsibility-pattern-app
 	  - http-chain-of-responsibility-pattern-app
 	  
-Day 19 : 22/6/21
+Day 18 : 21/6/21
   - Programs :
 	  - node-generic-app	  
 
@@ -42,8 +42,20 @@ Day 22 : 28/6/21
 	  - proxy-design-pattern-app
 	  - decorator-design-pattern-app
 
-Day 23 : 29/6/21
+Day 24 : 30/6/21
   - Programs :
 	  - car-service-decorator-app
 	  - hat-decorator-app
 	  - notification-decorator-app	  	  
+	  
+Day 24 : 29/6/21
+  - Programs :
+	  - car-service-decorator-app
+	  - hat-decorator-app
+	  - notification-decorator-app	
+
+Day 25 : 1/7/21
+  - Programs :
+	  - builder-pattern-app
+	  - real-account-proxy-pattern-app
+	  - real-image-proxy-pattern-app	  	    	  
